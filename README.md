@@ -1,9 +1,9 @@
-# Proyecto OctoBOSS
+# Proyecto OctoCHAT
 <p align="center">
-  <img src="logo.svg" alt="Logo OctoBOSS">
+  <img src="logo.svg" alt="Logo OctoCHAT">
 </p>
 
-Este proyecto es una red social llamada OctoBOSS, donde los usuarios pueden crear publicaciones, seguir a otros usuarios, dejar comentarios y más.
+Este proyecto es una red social llamada OctoCHAT, donde los usuarios pueden crear publicaciones, Chatear, seguir a otros usuarios, dejar comentarios y más.
 
 ## Autores
 
@@ -12,17 +12,23 @@ Este proyecto es una red social llamada OctoBOSS, donde los usuarios pueden crea
 
 ## Características
 
-- **Publicaciones**: Los usuarios pueden crear publicaciones y compartir contenido con otros usuarios.
-- **Seguimiento**: Los usuarios pueden seguir a otros usuarios y recibir actualizaciones de sus publicaciones.
-- **Comentarios**: Los usuarios pueden dejar comentarios en las publicaciones de otros usuarios.
-- **Administración**: Los administradores tienen acceso a funciones de administración para gestionar usuarios, publicaciones y comentarios.
+- **Publicaciones**: Los usuarios pueden crear publicaciones y compartir contenido.
+- **Likes**: Los usuarios pueden dar "Me gusta" a las publicaciones de otros usuarios.
+- **Tags**: Las publicaciones pueden ser etiquetadas con diferentes tags para categorizarlas.
+- **Chat**: Los usuarios pueden chatear en tiempo real utilizando la funcionalidad de chat integrada.
+- **Seguimiento**: Los usuarios pueden seguir a otros usuarios y recibir actualizaciones.
+- **Comentarios**: Los usuarios pueden dejar comentarios en las publicaciones de otros.
+- **Administración**: Los administradores pueden gestionar usuarios, publicaciones y comentarios.
 
 ## Tecnologías Utilizadas
 
-- **Laravel**: Framework de desarrollo web para el backend del proyecto.
-- **Livewire**: Biblioteca de Laravel para crear interfaces de usuario interactivas.
+- **Laravel**: Framework de desarrollo web para el backend.
+- **Reverb**: Biblioteca para implementar funcionalidad de chat en tiempo real.
+- **Livewire**: Biblioteca de Laravel para interfaces de usuario interactivas.
 - **Tailwind CSS**: Framework de CSS para el diseño y estilo del frontend.
-- **SQLite**: Sistema de gestión de bases de datos para almacenar los datos del proyecto.
+- **JavaScript**: Lenguaje de programación para funcionalidades interactivas en el frontend.
+- **SQLite**: Sistema de gestión de bases de datos para almacenar los datos.
+
 
 ## Instalación
 
@@ -30,7 +36,7 @@ Este proyecto es una red social llamada OctoBOSS, donde los usuarios pueden crea
 git clone https://github.com/HilmiIsmail/octoboss.git
 
 2. Instala las dependencias del proyecto:
-cd octoboss
+cd octoCHAT
 composer install
 npm install
 npm run dev
