@@ -3,7 +3,7 @@
   <img src="logo.svg" alt="Logo OctoCHAT">
 </p>
 
-Este proyecto es una red social llamada OctoCHAT, donde los usuarios pueden crear publicaciones, Chatear, seguir a otros usuarios, dejar comentarios y más.
+Este proyecto es una red social llamada [octoCHAT](http://ec2-44-194-37-124.compute-1.amazonaws.com/), donde los usuarios pueden crear publicaciones, Chatear, seguir a otros usuarios, dejar comentarios y más.
 
 ## Autores
 
